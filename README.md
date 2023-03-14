@@ -1,2 +1,4 @@
 # brenda-trabalho-ads
-Pacote Básico Office
+Boa comunicação
+Trabalho em equipe
+Empatia com usuário/cliente
